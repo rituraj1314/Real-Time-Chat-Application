@@ -29,8 +29,8 @@ The server runs on a predefined IP and port and listens for incoming client conn
 1. **Clone the Repository**:
    
    ```bash
-   git clone https://github.com/your-username/secure-chat-app.git
-   cd secure-chat-app
+   git clone https://github.com/rituraj1314/Real-Time-Chat-Application.git
+   cd Real-Time-Chat-Application
    ```
 
 2. **Install Dependencies**:
